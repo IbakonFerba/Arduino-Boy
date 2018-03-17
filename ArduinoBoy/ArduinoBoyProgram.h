@@ -5,6 +5,7 @@
 
 #include "stdafx.h"
 #include "Input.h"
+#include "Display.h"
 
 class ArduinoBoyProgram {
   public:
